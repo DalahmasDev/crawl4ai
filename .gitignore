@@ -167,7 +167,6 @@ cython_debug/
 Crawl4AI.egg-info/
 Crawl4AI.egg-info/*
 crawler_data.db
-.vscode/
 .tests/
 .test_pads/
 test_pad.py
@@ -251,8 +250,6 @@ continue_config.json
 .continue-downloads/
 
 # Continue VS Code specific
-.vscode-continue/
-.vscode-continue-cache/
 
 .prompts/
 
@@ -271,3 +268,5 @@ docs/**/data
 
 docs/apps/linkdin/debug*/
 docs/apps/linkdin/samples/insights/*
+temp_auto_push.bat
+temp_interactive_push.bat
